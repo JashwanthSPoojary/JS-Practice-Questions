@@ -1,0 +1,2 @@
+Question :- 
+Given an array of objects with numerical property , implement a function to sort the objects based on that property . Additionally, add a ranking to each object based on its position in the sorted array 
